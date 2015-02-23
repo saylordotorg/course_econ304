@@ -1,4 +1,11 @@
-Course Syllabus for "ECON304: Economic Development "
+---
+layout: default
+title: "ECON304: Economic Development"
+course_description: "This course examines the historical evolution of theories related to economic development, focusing on the social, political, and economic processes of transition from underdeveloped or less developed nation to developed nations."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "ECON304: Economic Development"
 ----------------------------------------------------
 
 This course introduces major theories of economic development and to

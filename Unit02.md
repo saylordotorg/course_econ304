@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON304: Economic Development"
+course_description: "This course examines the historical evolution of theories related to economic development, focusing on the social, political, and economic processes of transition from underdeveloped or less developed nation to developed nations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Traditional Theories of Economic Development** <span
 id="2"></span> 
 *This unit will introduce you to the four periods of economic
