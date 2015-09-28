@@ -181,3 +181,4 @@ vocabulary, and it will pay handsome dividends.
 - [Unit 3](https://legacy.saylor.org/econ304/Unit03/)
 - [Unit 4](https://legacy.saylor.org/econ304/Unit04/)
 - [Unit 5](https://legacy.saylor.org/econ304/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ECON/ECON304/ECON304-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ECON/ECON304/ECON304-FinalExam-Answers.html)
