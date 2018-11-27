@@ -39,12 +39,12 @@ lists the experiences of several African countries.*
     Blog*: “African Successes – Listing the Success Stories”**
     Link: World Bank: Shanta Devarajan’s *Africa Can End Poverty Blog*:
     [“African Successes – Listing the Success
-    Stories”](http://www.saylor.org/site/wp-content/uploads/2011/06/African-Successes.pdf)
+    Stories”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/African-Successes.pdf)
     (PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/06/African-Successes-World-Bank.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/06/African-Successes-World-Bank.epub)  
         
      Instructions: Read the following case studies from Devarajan’s
     blog: “Achieving Shared Growth in Post-Stabilization Mozambique,”
@@ -77,7 +77,7 @@ worthwhile to note that too.*
     Blog*: “African Successes – Listing the Success Stories”**
     Link: World Bank: Shanta Devarajan’s *Africa Can End Poverty Blog*:
     [“African Successes – Listing the Success
-    Stories”](http://www.saylor.org/site/wp-content/uploads/2011/06/African-Successes.pdf)
+    Stories”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/African-Successes.pdf)
     (PDF)  
       
      Instructions: Click on the link above to download the PDF, and read
@@ -150,7 +150,7 @@ to be inextricably linked to institutions and culture.*
     “Matching Development Theory and Development Success Stories”**
     Link: The Saylor Foundation’s ECON304 Case Study Exercise:
     [“Matching Development Theory and Development Success
-    Stories”](http://www.saylor.org/site/wp-content/uploads/2011/05/ECON304-Case-Study-1.pdf)
+    Stories”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ECON304-Case-Study-1.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to download the PDF,
