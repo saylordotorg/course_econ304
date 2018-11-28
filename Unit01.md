@@ -100,7 +100,7 @@ these countries can hardly be called developing.*
 -   **Activity: Connexions: Siyavula Uploaders’ “Approach to
     Development”**
     Link: Connexions: Siyavula Uploaders’ [“Approach to
-    Development”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ECON304-1.1.1-ApproachtoDevelopment.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ECON304-1.1.1-ApproachtoDevelopment.pdf) (PDF)  
       
      Instructions: Read the brief introductory information for a
     definition of *developing countries* and *developed countries*.
@@ -120,7 +120,7 @@ these countries can hardly be called developing.*
 -   **Reading: The World Bank’s *Beyond Economic Growth*: “What Is
     Development?”**
     Link: The World Bank’s *Beyond Economic Growth*: [“What Is
-    Development?”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Beyond-Economic-Growth-Student-Book.pdf) (PDF)  
+    Development?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Beyond-Economic-Growth-Student-Book.pdf) (PDF)  
         
      Instructions: Read this chapter for an overview on development. For
     further clarification on issues raised in this chapter, please refer
@@ -198,7 +198,7 @@ Ethiopia.*
     Levels of Development”**
     Link: The World Bank’s *Beyond Economic Growth:* [“Comparing Levels
     of
-    Development”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Comparing-Levels-of-Development.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Comparing-Levels-of-Development.pdf) (PDF)  
         
      Instructions: Read this chapter, which explains how different
     regions throughout the world compare on common measures of levels of
@@ -251,7 +251,7 @@ development economist. *
 -   **Reading: The World Bank’s *Beyond Economic Growth*: “World
     Population Growth”**
     Link: The World Bank’s *Beyond Economic Growth*: [“World Population
-    Growth”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/World-Population-Growth.pdf) (PDF)  
+    Growth”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/World-Population-Growth.pdf) (PDF)  
       
      Instructions: Read this chapter, which explains the importance of
     population growth in the dynamics of development and
@@ -318,7 +318,7 @@ development economist. *
 -   **Reading: The World Bank’s *Beyond Economic Growth*: “Economic
     Growth Rates”**
     Link: The World Bank’s *Beyond Economic Growth:* [“Economic Growth
-    Rates”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ECON104-1.3-EconomicGrowthRates.pdf) (PDF)  
+    Rates”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ECON104-1.3-EconomicGrowthRates.pdf) (PDF)  
         
      Instructions: Read this chapter, which tracks trends in economic
     growth according to a number of classifications including geography,
@@ -396,9 +396,9 @@ the more unequal income is distributed.*
 -   **Reading: The World Bank’s *Beyond Economic Growth*: “Income
     Inequality” and “Poverty and Hunger”**
     Link: The World Bank’s *Beyond Economic Growth:* [“Income
-    Inequality”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Income-Inequality.pdf) (PDF)
+    Inequality”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Income-Inequality.pdf) (PDF)
     and [“Poverty and
-    Hunger”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Poverty-and-Hunger.pdf) (PDF)  
+    Hunger”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Poverty-and-Hunger.pdf) (PDF)  
       
      Instructions: Read these articles. The first article describes a
     number of definitions of poverty and analyzes variations in poverty
@@ -443,7 +443,7 @@ id="1.5"></span> 
     “Industrialization and Postindustrialization”**
     Link: The World Bank’s *Beyond Economic Growth:* [“Industrialization
     and
-    Postindustrialization”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Industrialization-and-Postindustrialization.pdf) (PDF)  
+    Postindustrialization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Industrialization-and-Postindustrialization.pdf) (PDF)  
       
      Instructions: Read this chapter, which looks at how the structure
     of countries’ economies tends to change over the course of the

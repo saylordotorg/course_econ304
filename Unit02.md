@@ -376,7 +376,7 @@ id="2.3.2"></span> 
     Bernhard Gunter’s “Patterns of Development 1970–1994”**
     Link: The World Bank: William Branson, Isabel Guerrero, and Bernhard
     Gunter’s [“Patterns of Development
-    1970–1994”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Patterns-of-Development-1970-1994.pdf) (PDF)  
+    1970–1994”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Patterns-of-Development-1970-1994.pdf) (PDF)  
       
      Instructions: Read pages 1–9 and 31–33 for an overview of the
     patterns of economic growth school as well as the conclusions of an

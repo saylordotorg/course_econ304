@@ -72,7 +72,7 @@ other economists, including Jeffrey Sachs and William Easterly.    *
     Link: Munich Personal RePEc Archive: Bogdan Glavan’s [“Coordination
     Failures, Poverty Traps, ‘Big Push’ Policy, and Entrepreneurship: A
     Critical
-    View”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Coordination-Failures.pdf)
+    View”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Coordination-Failures.pdf)
     (PDF)  
       
      Instructions: Read this article. This article provides an overview
@@ -137,12 +137,12 @@ such geographic impediments on economic development.*
     2009*: “Reshaping Economic Geography”**
     Link: World Bank’s *Overview of the World Development Report 2009:*
     [“Reshaping Economic
-    Geography”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/World-Development-Overview.pdf)
+    Geography”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/World-Development-Overview.pdf)
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/06/World-Development-Overview-World-Bank.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/World-Development-Overview-World-Bank.epub)  
       
      Instructions: Read this 32-page overview. When reading this
     articles, consider how global warming might make the effects that
@@ -290,7 +290,7 @@ obtained any other way. *
     Economic Development”**
     Link: World Bank’s [“Social Capital in Poverty Reduction and
     Economic
-    Development”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Social-Capital-in-Poverty-Reduction-and-Economic-Development.pdf)
+    Development”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Social-Capital-in-Poverty-Reduction-and-Economic-Development.pdf)
     (PDF)  
         
      Instructions: This paper explores the different agents involved in
